@@ -12,6 +12,13 @@
     - Ubuntu distribution on Linux (ran on Google Colab)
 
 ## Documentation Map
+- DATA/
+    - CleanedData.csv
+    - RawData.csv
+- SCRIPTS/
+    - SourceCode.ipynb
+- README.md
+- LISCENSE.md
 
 
 ## Instructions for Reproducing
