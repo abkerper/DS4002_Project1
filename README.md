@@ -15,6 +15,7 @@
 - DATA/
     - CleanedData.csv
     - RawData.csv
+    - DataProcess.md
 - SCRIPTS/
     - SourceCode.ipynb
 - OUTPUT/
