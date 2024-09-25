@@ -34,6 +34,7 @@
 - Append dataframe with ['Compound Sentiment'] column which contains each text samples compound sentiment value
 - Average the compound sentiment value for high school-level and college-level textbooks
 - Subtract the college average from the high school average to calculate the difference
+- Calculate the correlation coefficient between 'Word Count' and 'Compound Sentiment' columns in order to identify if a relationship exists between those two variables
 
 ## References:
 [1] C. J. Hutto and E. Gilbert, “Welcome to VaderSentiment’s documentation!¶,” Welcome to VaderSentiment’s documentation! - VaderSentiment 3.3.1 documentation, https://vadersentiment.readthedocs.io/en/latest/ (accessed Sep. 11, 2024).
