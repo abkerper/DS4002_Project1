@@ -25,7 +25,9 @@
 
 
 ## Instructions for Reproducing
-
+- Acquire pdfs of 10 college-level and 10 high school-level history textbooks
+- Extract text samples from each textbook that cover the bombing of Hiroshima and Nagasaki
+- Create Google Sheets or Microsoft Excel file with 6 columns: ['Title', 'ISBN', 'Author(s)', 'Publisher', 'Level', 'Text']
 
 ## References:
 [1] C. J. Hutto and E. Gilbert, “Welcome to VaderSentiment’s documentation!¶,” Welcome to VaderSentiment’s documentation! - VaderSentiment 3.3.1 documentation, https://vadersentiment.readthedocs.io/en/latest/ (accessed Sep. 11, 2024).
