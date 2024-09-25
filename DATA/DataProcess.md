@@ -1,4 +1,5 @@
-1. Find 20 total history textbooks containing information about the bombings of Hiroshima and Nagasaki, 10 of which are high school-level and 10 of which are college-level
+1. Find 20 total history textbooks containing information about the bombings of Hiroshima and Nagasaki, 10 of which are high school level and 10 of which are college level
+   1. A given textbook will be labeled as high school level if it is sourced from an AP catalog or a high school catalog and college level if sourced from a college catalog
 2. Find a PDF representation of each text book and find the relevant passage regarding the bombings of Hiroshima and Nagasaki
    1. Use open source websites such as OpenStax, UVA Virgo Library catalog, and UVA World Cat Library Catalog
    2. Search for the keyword Hiroshima and Nagasaki and identify a relevant passage. The passage must discuss the American bombing of Hiroshima and Nagasaki.
