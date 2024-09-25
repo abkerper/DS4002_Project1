@@ -30,6 +30,8 @@
 - Create Google Sheets/Microsoft Excel file with 6 columns: ['Title', 'ISBN', 'Author(s)', 'Publisher', 'Level', 'Text'] and fill in with respective information for each textbook
 - Export sheet as CSV file and upload to github
 - In Google Collab notebook, clean the CSV file and append dataframe with ['Word Length'] column which contains the text sample length
+- Using the VADER Python package, calculate the sentiment for each text sample with SentimentIntensityAnalyzer
+- Append dataframe with ['Compound Sentiment'] column which contains the compound sentiment value from the SentimentIntensityAnalyzer for each sample
 
 ## References:
 [1] C. J. Hutto and E. Gilbert, “Welcome to VaderSentiment’s documentation!¶,” Welcome to VaderSentiment’s documentation! - VaderSentiment 3.3.1 documentation, https://vadersentiment.readthedocs.io/en/latest/ (accessed Sep. 11, 2024).
