@@ -31,7 +31,9 @@
 - Export sheet as CSV file and upload to github
 - In Google Collab notebook, clean the CSV file and append dataframe with ['Word Length'] column which contains the text sample length
 - Using the VADER Python package, calculate the sentiment for each text sample with SentimentIntensityAnalyzer
-- Append dataframe with ['Compound Sentiment'] column which contains the compound sentiment value from the SentimentIntensityAnalyzer for each sample
+- Append dataframe with ['Compound Sentiment'] column which contains each text samples compound sentiment value
+- Average the compound sentiment value for high school-level and college-level textbooks
+- Subtract the college average from the high school average to calculate the difference
 
 ## References:
 [1] C. J. Hutto and E. Gilbert, “Welcome to VaderSentiment’s documentation!¶,” Welcome to VaderSentiment’s documentation! - VaderSentiment 3.3.1 documentation, https://vadersentiment.readthedocs.io/en/latest/ (accessed Sep. 11, 2024).
