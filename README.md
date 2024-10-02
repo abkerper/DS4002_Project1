@@ -2,7 +2,7 @@
 ### Allison Kerper, Elijah Kim, and Henry Chen
 Hypothesis: We expect to see the sentiment score of the descriptions of the bombings of Nagasaki and Hiroshima in college-level textbooks to be at least 0.15 less than that of high school-level textbooks.
 
-Our data set is built from finding and extracting text from both high school-level and college-level history textbooks. We extract text from each textbook that covers the bombings of Hiroshima and Nagasaki. The data set containing the title, ISBN, author(s), publisher, level (high school or college), and text sample is then inputted into a CSV file. The CSV file is then uploaded and analyzed using the VADER Python package. The SentimentIntensityAnalyzer is used to find the compound sentiment value for each text sample.
+Our data set is built from finding and extracting text from both high school-level and college-level history textbooks. We extract text from each textbook that covers the bombings of Hiroshima and Nagasaki. A data set containing the title, ISBN, author(s), publisher, level (high school or college), and text sample of each textbook is created and exported as a CSV file. The CSV file is then uploaded and analyzed using the VADER Python package. The SentimentIntensityAnalyzer is used to find the compound sentiment value for each text sample.
 
 ## Software and Platform
 - Types of software used:
