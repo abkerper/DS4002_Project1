@@ -1,5 +1,6 @@
 ## Sentiment Analysis of the Portrayal of the Bombing of Hiroshima and Nagasaki in American Textbooks
-Allison Kerper, Elijah Kim, and Henry Chen
+# Allison Kerper, Elijah Kim, and Henry Chen
+
 ## Software and Platform
 - Types of software used:
     - Python Jupyter Notebook
